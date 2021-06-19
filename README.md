@@ -2,7 +2,7 @@
 
 
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">:https://solved.ac/jcs000729 <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen"> -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729)](https://solved.ac/jcs000729){: align='right'}
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729)](https://solved.ac/jcs000729){: align='right'}]
   
 ### What I'm lerning
 - language 
