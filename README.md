@@ -1,18 +1,21 @@
-### Hi there 👋
+<center> <h1> Proflis for me <h1> <center>
+***
+---
 
-<!--
-**jang-chinseok/jang-chinseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### What I'm lerning
+- language 
+- frame work
+- skills
+- others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### What I'm facing
 
+  
+### What I'm good at
+Having fun in learning new.
+Not good at anyting yet now.
+
+<img align='right'src="https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
