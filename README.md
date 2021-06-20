@@ -5,16 +5,24 @@
 </a>
   <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
 
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729)](https://solved.ac/jcs000729)-->
-  
-  
-  
-### What I'm lerning
-- language 
-- frame work 
-- skills
-- others
 
+  
+  
+  
+### What I'm learning
+- language 
+  Java Script, C, C++, node.js, phyton
+- frame work or library
+  React, express, npm, express
+- skills
+  Mongoose, macine learning, bolk chain
+- others
+  
+
+### What I foucos on
+  Java Script, node.Js, React, MongoDB
+  and basic math.
+  
   
 ### What I'm facing
 
