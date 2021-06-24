@@ -8,7 +8,7 @@
 </a>
   <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
 
-<bar><bar>
+<br><br>
   
   
   
