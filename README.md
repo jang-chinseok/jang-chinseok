@@ -28,7 +28,7 @@
   
   
 ### What I'm facing
-
+being developer and disingner
   
 ### What I'm good at
 Having fun in learning new.<br>
