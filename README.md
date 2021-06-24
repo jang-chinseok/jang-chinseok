@@ -1,6 +1,6 @@
 <center> <h1> Proflis for me <h1> <center>
 
- <a href = "https://github.com/anuraghazra/github-readme-stats"
+ <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img align = 'right' src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
  </a>
 <a href='https://solved.ac/jcs000729'>
