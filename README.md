@@ -13,13 +13,13 @@
  
  ***
 ### What I'm learning
-- language 
+- language :
   Java Script, C, C++, node.js, phyton
-- frame work or library
+- frame work or library :
   React, express, npm, express
-- skills
+- skills :
   Mongoose, macine learning, bolk chain
-- others
+- others :
   
 
 ### What I foucos on
@@ -31,7 +31,7 @@
 
   
 ### What I'm good at
-Having fun in learning new.
+Having fun in learning new.<br>
 Not good at anyting yet now.
   
 
