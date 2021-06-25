@@ -1,4 +1,6 @@
 <center> <h1> Proflis for me <h1> <center>
+ 
+ <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
 <p align ="center">
  <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img align = 'left' src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
@@ -8,7 +10,7 @@
 </a>
  
  <br>
- // <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
+ 
  </p>
 <br><br><br><br><br>
  
