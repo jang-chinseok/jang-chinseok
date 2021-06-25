@@ -7,18 +7,18 @@
  </a>
 <a href='https://solved.ac/jcs000729'>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
-
 </a>
+ 
  <a href="https://www.acmicpc.net/">
  <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
  </a>
- <br>
  
+ <br>
+ ***
 
 <br><br><br><br><br>
  
- 
- ***
+
 ### What I'm learning
 - language :
   Java Script, C, C++, node.js, phyton
