@@ -3,7 +3,7 @@
  <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
 <p align ="center">
  <a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img align = 'left' width=70% src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
+  <img align = 'left' width=50% src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
  </a>
 <a href='https://solved.ac/jcs000729'>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
