@@ -14,10 +14,7 @@
   <img src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
  </a>
 </p>
-<br>
-<br>
-<br>
-<br><br><br><br><br>
+
  
 ***
 ### What I'm learning
