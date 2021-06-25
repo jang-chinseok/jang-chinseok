@@ -8,7 +8,7 @@
 </a>
  
  <br>
-  <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
+ // <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
  </p>
 <br><br><br><br><br>
  
