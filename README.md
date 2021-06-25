@@ -9,7 +9,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
 </a>
  
- <a href="https://www.acmicpc.net/">
+ <a align ="rigth" href="https://www.acmicpc.net/">
  <img align='right' src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
  </a>
  <br>
