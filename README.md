@@ -1,10 +1,11 @@
 ## Proflis for me
  
-
-
-<a href = "https://github.com/anuraghazra/github-readme-stats">
- <img align = 'left' width=50% src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
-</a>
+<p width ="100%">
+<p align = 'left'>
+ <a href = "https://github.com/anuraghazra/github-readme-stats">
+  <img width=50% src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
+ </a>
+</p>
 
 <p align="right">
  <a href='https://solved.ac/jcs000729'>
@@ -13,6 +14,7 @@
  <a  href="https://www.acmicpc.net/">
   <img src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
  </a>
+</p>
 </p>
 
  
