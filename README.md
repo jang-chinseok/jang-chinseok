@@ -1,11 +1,10 @@
 ## Proflis for me
  
-<p width ="100%">
+ 
 <p align = 'left'>
  <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img width=50% src ="https://github-readme-stats.vercel.app/api?username=jang-chinseok">
  </a>
-</p>
 
 <p align="right">
  <a href='https://solved.ac/jcs000729'>
