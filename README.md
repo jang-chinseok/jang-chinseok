@@ -9,7 +9,7 @@
 
 <p align="right">
  <a href='https://solved.ac/jcs000729'>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
+  <img width=40% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs000729">
  </a>
  <a  href="https://www.acmicpc.net/">
   <img src= "https://img.shields.io/badge/-Learning%20Algorithms-brightgreen">
