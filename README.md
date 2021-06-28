@@ -24,11 +24,11 @@
 - language :
   Java Script, C, C++, node.js, phyton
 - frame work or library :
-  React, express, npm, express
+  React, express, express
 - skills :
   Mongoose, macine learning, bolk chain
 - others :
-  
+  npm
 
 ### What I foucos on
   Java Script, node.Js, React, MongoDB
