@@ -24,9 +24,9 @@
 - language :
   Java Script, C, C++, node.js, phyton
 - frame work or library :
-  React, express, express
+  React, express
 - skills :
-  Mongoose, macine learning, bolk chain
+  MongoDB, macine learning, bolk chain
 - others :
   npm
 
