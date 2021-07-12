@@ -31,7 +31,7 @@
   npm
 
 ### What I foucos on
-  Java Script, node.Js, React, MongoDB
+  Java Script, node.Js, React
   and basic math.
   
   
@@ -40,6 +40,6 @@ being developer and disingner
   
 ### What I'm good at
 Having fun in learning new.<br>
-Not good at anyting yet now.
+Not good at anyting yet.
   
 
