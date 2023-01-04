@@ -22,16 +22,13 @@
 ***
 ### What I'm learning
 - language :
-  Java Script, C, C++, node.js, phyton
-- frame work or library :
-  React, express
-- skills :
-  MongoDB, macine learning, bolk chain
-- others :
-  npm
+  Java Script,  C#, C++, Phyton
+- frame work or library : not yet
+- skills : Unity3D(2019.4.29.f1), writing, yarn spinner
+- others : communication skill
 
 ### What I foucos on
-  Java Script, node.Js, React
+  Java Script, React
   and basic math.
   
   
