@@ -28,8 +28,9 @@
 - others : communication skill
 
 ### What I foucos on
-  disinging game or service and skills in What I'm learning
-  and basic math.
+  disinging game or service 
+  and things that in What I'm learning
+  
   
   
 ### What I'm facing
