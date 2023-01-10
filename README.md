@@ -24,7 +24,7 @@
 - language :
   Java Script,  C#, C++, Phyton
 - frame work or library : not yet
-- skills : Unity3D(2019.4.29.f1), writing, yarn spinner
+- skills : Unity3D(2019.4.29.f1), [writing, yarn spinner](https://github.com/jang-chinseok/unitystudying)
 - others : communication skill
 
 ### What I foucos on
