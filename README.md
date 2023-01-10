@@ -28,7 +28,7 @@
 - others : communication skill
 
 ### What I foucos on
-  Java Script, React
+  disinging game or service and skills in What I'm learning
   and basic math.
   
   
